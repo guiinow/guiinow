@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I am Guilherme 👋
+
+I'm an undergrad studed of **Computer Engineering - UFOP** based in João Monlevade.
+
+I studied for a while in the interdisciplinary degree course in Science and Technology -  UFVJM.
+
+I looking to collaborate on projects that may contribute to decrease inequality of access to information.
+
+Ask me about: politics, coffee, wine, music, engineering stuff...
+
+I dedicate part of my time to volunteer work as second treasurer at the Rotaract club.
+
+
 
 ## Find me on: :iphone:
 
