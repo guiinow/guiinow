@@ -10,7 +10,7 @@ Ask me about: politics, coffee, wine, music, engineering stuff...
 
 I dedicate part of my time to volunteer work as second treasurer at the Rotaract club.
 
-
+![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## Find me on: :iphone:
 
