@@ -4,7 +4,7 @@ I'm an undergrad studet of **Computer Engineering - UFOP** based in João Monlev
 
 I studied for a while in the interdisciplinary degree course in Science and Technology -  UFVJM.
 
-I looking to collaborate on projects that may contribute to decrease inequality of access to information.
+I'm looking to collaborate on projects that may contribute to decrease inequality of access to information.
 
 Ask me about: politics, coffee, wine, music, engineering stuff...
 
