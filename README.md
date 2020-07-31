@@ -1,5 +1,7 @@
 ### Hi there, I am Guilherme 👋
 
+I’m currently working as a Web developer at [Visão Jr](https://www.visaojr.com.br/). 
+
 I'm an undergrad student of **Computer Engineering - UFOP** based in João Monlevade.
 
 I studied for a while in the interdisciplinary degree course in Science and Technology -  UFVJM.
