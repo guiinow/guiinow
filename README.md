@@ -8,7 +8,7 @@ I studied for a while in the interdisciplinary degree course in Science and Tech
 
 I'm looking to collaborate on projects that may contribute to decrease inequality of access to information.
 
-Ask me about: politics, coffee, wine, music, engineering stuff...
+Ask me about: politics, coffee, wine, music, engineering...
 
 I dedicate part of my time to volunteer work as second treasurer at the Rotaract club.
 
