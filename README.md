@@ -36,6 +36,10 @@ I dedicate part of my time to volunteer work as second treasurer at the Rotaract
   <a href="https://github.com/guiinow" alt="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-4c4c4c?style=flat-square&logo=Github&logoColor=white" />
   </a>
+  
+  <a href="https://github.com/guiinow" alt="Views" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=guiinow&color=gray&style=flat-square" />
+  </a>
 
 [![Twitter URL](https://img.shields.io/badge/Que--tal--me--pagar--um--cafezinho-picpay-sucess)](https://picpay.me/guiinow )
 
