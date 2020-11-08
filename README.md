@@ -1,5 +1,12 @@
 ### Hi there, I am Guilherme 👋
 
+</p>
+<p align="center">
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guiinow">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guiinow&layout=compact&theme=radical" />
+  </a>
+</p>
+
 I’m currently working as a Web developer at [Visão Jr](https://www.visaojr.com.br/). 
 
 I'm an undergrad student of **Computer Engineering - UFOP** based in João Monlevade.
@@ -12,13 +19,23 @@ Ask me about: politics, coffee, wine, music, engineering...
 
 I dedicate part of my time to volunteer work as second treasurer at the Rotaract club.
 
-![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## Find me on: :iphone:
 
 [![Twitter URL](https://img.shields.io/badge/my--website-guiinow-green)](https://guiinow.github.io/guiferreira/)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc)](https://www.instagram.com/guiinow/)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/guiiferreira/)
+
+<a href="https://web.whatsapp.com/send?phone=5533999428324" alt="WhatsApp" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-4c4c4c?style=flat-square&logo=WhatsApp&logoColor=white" />
+  </a>
+ <a href="https://www.linkedin.com/in/guiiferreira/" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-4c4c4c?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://guiinow.medium.com/" alt="Medium" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-4c4c4c?style=flat-square&logo=Medium&logoColor=white" />
+  </a>
+  <a href="https://github.com/guiinow" alt="GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-4c4c4c?style=flat-square&logo=Github&logoColor=white" />
+  </a>
 
 [![Twitter URL](https://img.shields.io/badge/Que--tal--me--pagar--um--cafezinho-picpay-sucess)](https://picpay.me/guiinow )
 
