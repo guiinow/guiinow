@@ -37,6 +37,9 @@ I dedicate part of my time to volunteer work as second treasurer at the Rotaract
   <a href="https://github.com/guiinow" alt="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-4c4c4c?style=flat-square&logo=Github&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/guiinow/" alt="GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-4c4c4c?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
   
   <a href="https://github.com/guiinow" alt="Views" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=guiinow&color=gray&style=flat-square" />
