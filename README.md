@@ -6,6 +6,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guiinow&layout=compact&theme=radical" />
 </a>
 
+<hr>
 
 I’m currently working as a Web developer at [Visão Jr](https://www.visaojr.com.br/). 
 
@@ -18,7 +19,7 @@ I'm looking to collaborate on projects that may contribute to decrease inequalit
 Ask me about: politics, coffee, wine, music, engineering...
 
 I dedicate part of my time to volunteer work as second treasurer at the Rotaract club.
-
+<hr>
 
 ## Find me on: :iphone:
 
