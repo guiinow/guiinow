@@ -8,7 +8,7 @@
 
 <hr>
 
-I’m currently the President at [Visão Jr](https://www.visaojr.com.br/). 
+I’m currently the sitting President at [Visão Jr](https://www.visaojr.com.br/). 
 
 I'm an undergrad student of **Computer Engineering - UFOP** based in João Monlevade.
 
@@ -18,7 +18,7 @@ I'm looking to collaborate on projects that may contribute to decrease inequalit
 
 Ask me about: politics, coffee, wine, music, engineering...
 
-I dedicate part of my time to volunteer work as second treasurer at the Rotaract club.
+I dedicate part of my time to volunteer work as second treasurer at the [Rotaract club](https://www.rotary.org/pt/get-involved/rotaract-clubs).
 <hr>
 
 ## Find me on: :iphone:
