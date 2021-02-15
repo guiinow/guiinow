@@ -8,7 +8,7 @@
 
 <hr>
 
-I’m currently the sitting President at [Visão Jr](https://www.visaojr.com.br/). 
+I’m currently the President at [Visão Jr](https://www.visaojr.com.br/). 
 
 I'm an undergrad student of **Computer Engineering - UFOP** based in João Monlevade.
 
