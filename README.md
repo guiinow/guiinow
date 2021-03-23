@@ -45,7 +45,6 @@ I dedicate part of my time to volunteer work as second treasurer at the [Rotarac
     <img src="https://komarev.com/ghpvc/?username=guiinow&color=gray&style=flat-square" />
   </a>
 
-[![Twitter URL](https://img.shields.io/badge/Que--tal--me--pagar--um--cafezinho-picpay-sucess)](https://picpay.me/guiinow )
 
 <!--
 **guiinow/guiinow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
