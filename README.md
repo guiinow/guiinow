@@ -9,6 +9,7 @@
 <hr>
 
 I’m currently the President at [Visão Jr](https://www.visaojr.com.br/). 
+I’m work as Scrum Master at [ClubPetro](https://www.clibpetro.com). 
 
 I'm an undergrad student of **Computer Engineering - UFOP** based in João Monlevade.
 
@@ -23,7 +24,7 @@ I dedicate part of my time to volunteer work as second treasurer at the [Rotarac
 
 ## Find me on: :iphone:
 
-[![Twitter URL](https://img.shields.io/badge/my--website-guiinow-green)](https://guiinow.github.io/guiferreira/)
+[![Twitter URL](https://img.shields.io/badge/my--website-guiinow-green)](https://guiinow.github.io/)
 
 <a href="https://web.whatsapp.com/send?phone=5533999428324" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-4c4c4c?style=flat-square&logo=WhatsApp&logoColor=white" />
