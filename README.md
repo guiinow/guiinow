@@ -7,11 +7,11 @@
 </a>
 
 <hr>
-I'm currently Backend developer at [ClubPetro](https://www.clubpetro.com). 
+I previously worked as a Backend Developer specializing in microservices, gRPC, NestJS, and PostgreSQL 
 
 I was President at [Visão Jr](https://www.visaojr.com.br/). 
 
-I worked as Scrum Master at [ClubPetro](https://www.clubpetro.com). 
+I worked as Scrum Master for 1.6 year. 
 
 I'm an undergrad student of **Computer Engineering - UFOP** based in João Monlevade.
 
