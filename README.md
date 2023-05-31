@@ -7,7 +7,8 @@
 </a>
 
 <hr>
-I previously worked as a Backend Developer specializing in microservices, gRPC, NestJS, and PostgreSQL 
+I previously worked as a Backend Developer specializing in microservices, gRPC, NestJS, and PostgreSQL .
+
 
 I was President at [Visão Jr](https://www.visaojr.com.br/). 
 
