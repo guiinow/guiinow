@@ -7,22 +7,26 @@
 </a>
 
 <hr>
+Computer Engineering undergraduate at Federal University of Ouro Preto (UFOP) — expected Feb 2026.  
+Based in João Monlevade, Brazil.
 
-I previously worked as a Backend Developer specializing in microservices, gRPC, NestJS, and PostgreSQL .
+I build reliable backend systems and data pipelines, applying GenAI and prompt engineering to accelerate development and validation.
 
-I was President at [Visão Jr](https://www.visaojr.com.br/). 
+**Data & Analytics:** Fullstack Data Engineer (Indicium Lighthouse) — Modern Data Stack, dbt, data modeling, and governance for scalable analytics.  
+**Backend & Microservices:** Experience with NestJS, Node.js, and PostgreSQL, with focus on testing, CI/CD, and clean architecture.  
+**Data Processing:** Hands-on with Python, Spark/PySpark, Airflow, ETL/ELT, and data quality across Bronze/Silver/Gold layers.  
+**AI & Automation:** Use of GenAI and Prompt Engineering for code generation, anomaly detection, and data validation.  
 
-I worked as Scrum Master for 1.6 year. 
+**Team & Delivery:** Former Scrum Master and student org President, experienced in agile delivery, collaboration, and mentoring.  
+**Teaching & Research:** Python instructor and co-author of an academic research paper.
 
-I'm an undergrad student of **Computer Engineering - UFOP** based in João Monlevade.
+**Tech highlights:** Git, Docker, TypeScript, Snowflake, Databricks, GitHub Actions.  
+**Languages:** Portuguese (native), English (fluent).
 
-I studied for a while in the interdisciplinary degree course in Science and Technology -  UFVJM.
+Open to Jr/Mid roles in **Data Engineering** or **Backend Development**.  
 
-I'm looking to collaborate on projects that may contribute to decrease inequality of access to information and data security.
 
-Ask me about: politics, coffee, wine, music, engineering...
-
-I dedicate part of my time to volunteer work as second treasurer at the [Rotaract club](https://www.rotary.org/pt/get-involved/rotaract-clubs).
+I dedicated part of my time to volunteer work as second treasurer at the [Rotaract club](https://www.rotary.org/pt/get-involved/rotaract-clubs).
 <hr>
 
 ## Find me on: :iphone:
