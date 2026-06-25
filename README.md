@@ -27,12 +27,10 @@ Computer Engineer graduated from UFOP
 ## Find me on: :iphone:
 
 
-
- <a href="https://www.linkedin.com/in/guiiferreira/" alt="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/guiiferreira/" alt="LinkedIn" target="_blank">
 
     <img src="https://img.shields.io/badge/-LinkedIn-4c4c4c?style=flat-square&logo=Linkedin&logoColor=white" />
-
-  </a>
+</a>
 
   <a href="https://guiinow.medium.com/" alt="Medium" target="_blank">
 
@@ -86,7 +84,3 @@ Here are some ideas to get you started:
 
 -->
 
-
-
-
-Obter Outlook para Mac
