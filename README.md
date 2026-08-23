@@ -2,9 +2,9 @@
 
 <hr>
 
-As a Research Engineer at Inter, my focus is translating cutting-edge academic research into practical, scalable solutions for the financial market.
+As Research Engineer at Inter Science, I work on applied research at the intersection of emerging technologies and financial systems, from exploratory proofs of concept to academic publications, in collaboration with academic partners.
 
-Computer Engineer graduated from UFOP
+Computer Engineer graduated from one of the Top 10% Universities in the world: UFOP.
 
 ## Find me on: :iphone:
 
