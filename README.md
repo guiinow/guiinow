@@ -7,6 +7,9 @@ As Research Engineer at Inter Science, I work on applied research at the interse
 Computer Engineer graduated from one of the Top 10% Universities in the world: UFOP.
 
 ## Find me on: :iphone:
+https://guiinow.github.io/
+
+science.inter.co
 
 <a href="https://www.linkedin.com/in/guiiferreira/" alt="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-4c4c4c?style=flat-square&logo=Linkedin&logoColor=white" />
